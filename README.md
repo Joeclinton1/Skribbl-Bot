@@ -17,3 +17,7 @@ This is a fast python auto drawing program, which allows you to draw images in S
 <li>Setting menu allows easy customization of bot's settings</li>
 <li>Store multiple seting profiles, so that you can easily swap between different monitors, without having to change any settings</li>
 </ul>
+
+<h2>Installation</h2>
+To run the Skribbl-bot simply download the repository to a location on your computer and run main.py. You will also need to install the Google-images-Download module available <a href='https://github.com/Joeclinton1/google-images-download'>here</a>.
+
