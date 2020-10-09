@@ -1,6 +1,6 @@
 # Skribbl-Bot
 
-This is a fast auto drawing program, which allows you to draw images in Skribbl.io
+This is a fast python auto drawing program, which allows you to draw images in Skribbl.io
 
 <h2>What makes this bot faster than other ones?</h2>
 <ol>
