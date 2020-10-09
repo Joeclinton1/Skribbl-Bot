@@ -12,6 +12,7 @@ This is a fast auto drawing program, which allows you to draw images in Skribbl.
 <ul>
 <li>Gui makes using the bot simple</li>
 <li>Fast drawing algorithm</li>
+<li>Well organised code makes for easier development</li>
 <li>Built upon google image search means images are found fast</li>
 <li>Setting menu allows easy custimisation of bots settings</li>
 <li>Store multiple seting profiles so that you can easily swap between different monitors, without having to change any settings</li>
